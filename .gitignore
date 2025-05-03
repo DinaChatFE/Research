@@ -1,0 +1,9 @@
+dataset
+TBDataCNN/test
+TBDataCNN/train
+vit-disease-model
+vit-disease-model.egg-info
+TBDataCNN/__pycache__
+TBDataCNN.egg-info
+TBDataCNN.egg-info/
+TBDataCNN/data
